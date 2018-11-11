@@ -17,11 +17,11 @@ Microservice architecture is an architectural style that structures an applicati
 
 Demo 
 ---
-- 1. Open the iOS app , enter the Home Page
+1. Open the iOS app , enter the Home Page
 <img src="https://i.imgur.com/T2xrTPI.jpg" height="600" />
-- 2. Grab a electrical invoice , scan the QR code
+2. Grab a electrical invoice , scan the QR code
 <img src="https://i.imgur.com/PcpwtjH.jpg" height="600" />
-- 3. Alert Dialog : Close Alert , Scan Again , and store the information
+3. Alert Dialog : Close Alert , Scan Again , and store the information
 <img src="https://i.imgur.com/PcpwtjH.jpg" height="600" />
 
 
