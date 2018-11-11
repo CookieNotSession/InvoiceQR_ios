@@ -31,9 +31,11 @@ Installation
 https://developer.apple.com/xcode/
 <img src="https://i.imgur.com/oIsKMr3.jpg" height="600" />
 2. Clone the InvoiceQR_ios repository.
-``` mac
+
+``` 
 git clone https://github.com/CookieNotSession/InvoiceQR_ios.git
 ```
+
 3. Open Xcode
 4. Open the QRReader folder
 5. Run ViewController.swift
