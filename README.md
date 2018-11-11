@@ -8,27 +8,28 @@ InvoiceQR_ios
 Introduction
 ---
 - **Microservices Architecture**
-![](https://i.imgur.com/qM2hpUf.png)
+<img src="https://i.imgur.com/qM2hpUf.png" height="600" />
 - **What are microservices?**
 Microservice architecture is an architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities. The microservice architecture enables the continuous delivery/deployment of large, complex applications. It also enables an organization to evolve its technology stack.
 
 - API GUI Website - Swagger 
-![](https://i.imgur.com/6yRIi3E.png =750x)
+![](https://i.imgur.com/6yRIi3E.png)
 
 Demo 
 ---
-### 1. Open the iOS app , enter the Home Page
-![](https://i.imgur.com/T2xrTPI.jpg =250x)
-### 2. Grab a electrical invoice , scan the QR code
-![](https://i.imgur.com/PcpwtjH.jpg =250x)
-### 3. Alert Dialog : Close Alert , Scan Again , and store the information
-![](https://i.imgur.com/nHHXpAm.png =250x)
+- 1. Open the iOS app , enter the Home Page
+<img src="https://i.imgur.com/T2xrTPI.jpg" height="600" />
+- 2. Grab a electrical invoice , scan the QR code
+<img src="https://i.imgur.com/PcpwtjH.jpg" height="600" />
+- 3. Alert Dialog : Close Alert , Scan Again , and store the information
+<img src="https://i.imgur.com/PcpwtjH.jpg" height="600" />
+
 
 Installation
 ---
 1. Xcode 10 Download
 https://developer.apple.com/xcode/
-![](https://i.imgur.com/oIsKMr3.jpg)
+<img src="https://i.imgur.com/oIsKMr3.jpg" height="600" />
 2. Clone the InvoiceQR_ios repository.
 ``` mac
 git clone https://github.com/CookieNotSession/InvoiceQR_ios.git
