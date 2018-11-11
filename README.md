@@ -38,6 +38,9 @@ git clone https://github.com/CookieNotSession/InvoiceQR_ios.git
 4. Open the QRReader folder
 5. Run ViewController.swift
 
+
+Progress
+---
 ```
 1. 目前功能為進入app主頁面，點入QR code Scanner 的Button進入QR code掃描模式
 2. 掃完發票後，取得發票號碼前15碼，並串連Get API，可選擇「再掃一次」以及「下一步」
