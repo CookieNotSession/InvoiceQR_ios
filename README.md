@@ -22,7 +22,7 @@ Demo
 2. Grab a electrical invoice , scan the QR code
 <img src="https://i.imgur.com/PcpwtjH.jpg" height="600" />
 3. Alert Dialog : Close Alert , Scan Again , and store the information
-<img src="https://i.imgur.com/PcpwtjH.jpg" height="600" />
+<img src="https://i.imgur.com/nHHXpAm.png" height="600" />
 
 
 Installation
