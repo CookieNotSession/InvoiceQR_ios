@@ -1,5 +1,7 @@
 InvoiceQR_ios 
 ===
+[![Travis](https://img.shields.io/badge/language-Swift-yellow.svg)](https://developer.apple.com/swift/)
+
 - Author : CookieChou(周秉楠)
 - Made in Summer 2018 , IBM Taiwan.
 - InvoiceQR_ios is an iOS App for invoice QR code Scanner and using the QR code information to **get the api data from Ministry of Finance, R.O.C. (財政部) .**
