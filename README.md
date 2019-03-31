@@ -9,9 +9,13 @@ InvoiceQR_ios
 
 Introduction
 ---
-- **Microservices Architecture**
+
+**Microservices Architecture**
+
 <img src="https://i.imgur.com/qM2hpUf.png" height="600" />
-- **What are microservices?**
+
+**What are microservices?**
+
 Microservice architecture is an architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities. The microservice architecture enables the continuous delivery/deployment of large, complex applications. It also enables an organization to evolve its technology stack.
 
 - API GUI Website - Swagger 
